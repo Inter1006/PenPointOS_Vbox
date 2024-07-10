@@ -2,8 +2,8 @@
  
 <img alt="LOGO" src="https://github.com/Inter1006/PenPointOS_Vbox/blob/Readme_Files/logo.svg" width="300" height="100" />
  
-# PenPointOS_Vbox
-在 VirtualBox 上运行的 PenPoint 操作系统。<br />
+# PenPointOS -Emulator-
+在 VirtualBox 上运行的 PenPoint 操作系统~<br />
 
 [![LICENSE](https://img.shields.io/badge/LICENSE-Apache2.0-green.svg?style=for-the-badge)](https://github.com/Inter1006/PenPointOS_Vbox/blob/main/LICENSE )
 
@@ -13,7 +13,7 @@
 本项目为一个仿真实例，旨在让PenPointOS在虚拟机中正常启动，并搭配其SDK及编译器，在现代平台上复现PenPoint的软件开发环境。<br />
 为了保证兼容性和令系统正常启动，我们选择了FreeDOS作为启动PenPoint的前置操作系统，并使用VirtualBox作为虚拟机平台。
 
-## 本项目包含的内容
+## 📚本项目包含的内容
 
 * FreeDOS 1.3-rc4(官网[freedos.org](https://www.freedos.org/))
 * 一个可运行的PenPoint OS 1.0a 副本
@@ -34,7 +34,7 @@
 2.在管理器窗口右侧单击 **启动(T)**<img alt="PICTURE" src="https://github.com/Inter1006/PenPointOS_Vbox/blob/Readme_Files/START.svg" width="20" height="20" />。<br />
 3.等待虚拟电脑启动，直到其显示"Loading Completed"字样并启动到 C:\ 提示符。<br />
 4.输入 **GO** ，回车即可。
-## 进阶教程Chapter1-为PenPoint OS安装软件
+## 🛠️进阶教程Chapter1-为PenPoint OS安装软件
 Chapter 1:安装已有软件<br />
 PenPoint OS使用带有“QINSTALL"标识文件的软盘安装应用程序。如果你连接了一张QINSTALL软盘，系统会自动识别并打开软件包管理器。<br />
 详细步骤如下(附上Dock栏参考图):![屏幕截图 2024-06-22 115831](https://github.com/Inter1006/PenPointOS_Vbox/assets/86058148/17c3ebf0-1329-4727-8936-61e50f40c265)<br />
@@ -46,7 +46,7 @@ PenPoint OS使用带有“QINSTALL"标识文件的软盘安装应用程序。如
 
 至此，软件包的安装便结束了。如果安装软件的过程中提示”Insert Disk xxx“，按照序号换盘即可。安装完成后，你便可以关闭Quick Installer和Connections窗口，弹出软盘了。<br />
 
-## 进阶教程Chapter2-Debug Version与串口调试
+## 🛠️进阶教程Chapter2-Debug Version与串口调试
 敬请期待-Coming soon....
 
 ## ❗注意事项
@@ -67,7 +67,7 @@ PenPoint OS使用带有“QINSTALL"标识文件的软盘安装应用程序。如
 [作者的b站个人主页](https://space.bilibili.com/1756824708)<br />
 qq交流群:**981893945** 欢迎来玩
 
-## 友站链接
+## 🤝友站链接
 [351workshop官网](https://www.351workshop.top/)<br />
 👆点击戳一下WNT351<br />
 [樱之谷-MC服务器](www.sakuravalley.xyz)<br />
