@@ -62,6 +62,8 @@ PenPoint OS使用带有“QINSTALL"标识文件的软盘安装应用程序。如
   </tr>
 </table>
 
+特别感谢[Kirill Leyfer](https://github.com/BOOtak),他总结了PenPointOS在现代虚拟硬件上启动的前置条件。
+
 [作者的b站个人主页](https://space.bilibili.com/1756824708)<br />
 qq交流群:**981893945** 欢迎来玩
 
